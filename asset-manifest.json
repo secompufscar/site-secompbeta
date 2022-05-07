@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/secomp/static/css/main.0b874d0b.css",
+    "main.js": "/secomp/static/js/main.18e2fb2a.js",
+    "static/js/937.608b781f.chunk.js": "/secomp/static/js/937.608b781f.chunk.js",
+    "static/media/Conteudo - Pedro Freire Baleeiro.png": "/secomp/static/media/Conteudo - Pedro Freire Baleeiro.076927db16f189813628.png",
+    "static/media/JF - Pietro Minghini Moralles.png": "/secomp/static/media/JF - Pietro Minghini Moralles.e0b13fb869a19b6730d0.png",
+    "static/media/JF - Wesley Azevedo Souza.png": "/secomp/static/media/JF - Wesley Azevedo Souza.eb31ee197ab4e3202a09.png",
+    "static/media/TI - João Pedro Pereira.png": "/secomp/static/media/TI - João Pedro Pereira.5484d167bf7db7e51bed.png",
+    "static/media/Patrocínio - Bruno Zenatti de Caires Marcelo.png": "/secomp/static/media/Patrocínio - Bruno Zenatti de Caires Marcelo.1edc77b98aa00b4276af.png",
+    "static/media/banner-secomp.jpg": "/secomp/static/media/banner-secomp.c1cf070f5a09d256d01f.jpg",
+    "static/media/DM - Rafael Tury Minatel.jpg": "/secomp/static/media/DM - Rafael Tury Minatel.f46c121f579a315eb49d.jpg",
+    "static/media/Sociocult - Gianlucca Pugliesi.jpeg": "/secomp/static/media/Sociocult - Gianlucca Pugliesi.04daf0e13d1916f55078.jpeg",
+    "static/media/Poppins-Regular.ttf": "/secomp/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/TI - Victor Luis A Antunes.jpeg": "/secomp/static/media/TI - Victor Luis A Antunes.25bba02fecb2e18bab3c.jpeg",
+    "static/media/Simbolo-SemBeta-SemFundo.png": "/secomp/static/media/Simbolo-SemBeta-SemFundo.000442f2c12e945a595f.png",
+    "static/media/Logotipo-Vertical-Preto-SemFundo.png": "/secomp/static/media/Logotipo-Vertical-Preto-SemFundo.0b327419e4efcae0fd7f.png",
+    "static/media/Logotipo-Branco-SemFundo.png": "/secomp/static/media/Logotipo-Branco-SemFundo.96e79499049efa7d313a.png",
+    "index.html": "/secomp/index.html",
+    "main.0b874d0b.css.map": "/secomp/static/css/main.0b874d0b.css.map",
+    "main.18e2fb2a.js.map": "/secomp/static/js/main.18e2fb2a.js.map",
+    "937.608b781f.chunk.js.map": "/secomp/static/js/937.608b781f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b874d0b.css",
+    "static/js/main.18e2fb2a.js"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/secomp/static/css/main.59341797.css",
-    "main.js": "/secomp/static/js/main.31f4a59d.js",
+    "main.css": "/secomp/static/css/main.3ba1743b.css",
+    "main.js": "/secomp/static/js/main.d80bfcc5.js",
     "static/js/937.608b781f.chunk.js": "/secomp/static/js/937.608b781f.chunk.js",
     "static/media/Conteudo - Pedro Freire Baleeiro.png": "/secomp/static/media/Conteudo - Pedro Freire Baleeiro.076927db16f189813628.png",
     "static/media/JF - Pietro Minghini Moralles.png": "/secomp/static/media/JF - Pietro Minghini Moralles.e0b13fb869a19b6730d0.png",
@@ -17,12 +17,12 @@
     "static/media/Logotipo-Branco-SemFundo.png": "/secomp/static/media/Logotipo-Branco-SemFundo.96e79499049efa7d313a.png",
     "static/media/Logotipo-Vertical-Monocromatico-SemFundo_Prancheta-preto.png": "/secomp/static/media/Logotipo-Vertical-Monocromatico-SemFundo_Prancheta-preto.fe8aa0c5feb4763418fb.png",
     "index.html": "/secomp/index.html",
-    "main.59341797.css.map": "/secomp/static/css/main.59341797.css.map",
-    "main.31f4a59d.js.map": "/secomp/static/js/main.31f4a59d.js.map",
+    "main.3ba1743b.css.map": "/secomp/static/css/main.3ba1743b.css.map",
+    "main.d80bfcc5.js.map": "/secomp/static/js/main.d80bfcc5.js.map",
     "937.608b781f.chunk.js.map": "/secomp/static/js/937.608b781f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.59341797.css",
-    "static/js/main.31f4a59d.js"
+    "static/css/main.3ba1743b.css",
+    "static/js/main.d80bfcc5.js"
   ]
 }

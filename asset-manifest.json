@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/secomp/static/css/main.3ba1743b.css",
-    "main.js": "/secomp/static/js/main.d80bfcc5.js",
+    "main.css": "/secomp/static/css/main.bd0bee91.css",
+    "main.js": "/secomp/static/js/main.80fc30ab.js",
     "static/js/937.608b781f.chunk.js": "/secomp/static/js/937.608b781f.chunk.js",
     "static/media/Conteudo - Pedro Freire Baleeiro.png": "/secomp/static/media/Conteudo - Pedro Freire Baleeiro.076927db16f189813628.png",
     "static/media/JF - Pietro Minghini Moralles.png": "/secomp/static/media/JF - Pietro Minghini Moralles.e0b13fb869a19b6730d0.png",
@@ -15,14 +15,15 @@
     "static/media/TI - Victor Luis A Antunes.jpeg": "/secomp/static/media/TI - Victor Luis A Antunes.25bba02fecb2e18bab3c.jpeg",
     "static/media/Simbolo-SemBeta-SemFundo.png": "/secomp/static/media/Simbolo-SemBeta-SemFundo.000442f2c12e945a595f.png",
     "static/media/Logotipo-Branco-SemFundo.png": "/secomp/static/media/Logotipo-Branco-SemFundo.96e79499049efa7d313a.png",
-    "static/media/Logotipo-Vertical-Monocromatico-SemFundo_Prancheta-preto.png": "/secomp/static/media/Logotipo-Vertical-Monocromatico-SemFundo_Prancheta-preto.fe8aa0c5feb4763418fb.png",
+    "static/media/Logotipo-Vertical-Preto-SemFundo.png": "/secomp/static/media/Logotipo-Vertical-Preto-SemFundo.d61da4145ef9024288eb.png",
     "index.html": "/secomp/index.html",
-    "main.3ba1743b.css.map": "/secomp/static/css/main.3ba1743b.css.map",
-    "main.d80bfcc5.js.map": "/secomp/static/js/main.d80bfcc5.js.map",
+    "static/media/onda.svg": "/secomp/static/media/onda.8b5d910206532ce972694f2bd38572a1.svg",
+    "main.bd0bee91.css.map": "/secomp/static/css/main.bd0bee91.css.map",
+    "main.80fc30ab.js.map": "/secomp/static/js/main.80fc30ab.js.map",
     "937.608b781f.chunk.js.map": "/secomp/static/js/937.608b781f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ba1743b.css",
-    "static/js/main.d80bfcc5.js"
+    "static/css/main.bd0bee91.css",
+    "static/js/main.80fc30ab.js"
   ]
 }

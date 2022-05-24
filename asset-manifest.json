@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/secomp/static/css/main.4d0dd976.css",
+    "main.css": "/secomp/static/css/main.9dcd7c64.css",
     "main.js": "/secomp/static/js/main.0018b66e.js",
     "static/js/937.608b781f.chunk.js": "/secomp/static/js/937.608b781f.chunk.js",
     "static/media/Conteudo - Pedro Freire Baleeiro.png": "/secomp/static/media/Conteudo - Pedro Freire Baleeiro.076927db16f189813628.png",
@@ -19,12 +19,12 @@
     "static/media/Logotipo-Vertical-Preto-SemFundo.png": "/secomp/static/media/Logotipo-Vertical-Preto-SemFundo.d61da4145ef9024288eb.png",
     "index.html": "/secomp/index.html",
     "static/media/onda.svg": "/secomp/static/media/onda.8b5d910206532ce972694f2bd38572a1.svg",
-    "main.4d0dd976.css.map": "/secomp/static/css/main.4d0dd976.css.map",
+    "main.9dcd7c64.css.map": "/secomp/static/css/main.9dcd7c64.css.map",
     "main.0018b66e.js.map": "/secomp/static/js/main.0018b66e.js.map",
     "937.608b781f.chunk.js.map": "/secomp/static/js/937.608b781f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d0dd976.css",
+    "static/css/main.9dcd7c64.css",
     "static/js/main.0018b66e.js"
   ]
 }

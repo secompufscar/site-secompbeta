@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/secomp/static/css/main.3f375797.css",
-    "main.js": "/secomp/static/js/main.0ed41585.js",
+    "main.css": "/secomp/static/css/main.72ff0f1c.css",
+    "main.js": "/secomp/static/js/main.501d057d.js",
     "static/js/937.608b781f.chunk.js": "/secomp/static/js/937.608b781f.chunk.js",
     "static/media/Conteudo - Pedro Freire Baleeiro.png": "/secomp/static/media/Conteudo - Pedro Freire Baleeiro.076927db16f189813628.png",
     "static/media/JF - Pietro Minghini Moralles.png": "/secomp/static/media/JF - Pietro Minghini Moralles.e0b13fb869a19b6730d0.png",
@@ -14,16 +14,17 @@
     "static/media/Poppins-Regular.ttf": "/secomp/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/TI - Victor Luis A Antunes.jpeg": "/secomp/static/media/TI - Victor Luis A Antunes.25bba02fecb2e18bab3c.jpeg",
     "static/media/Simbolo-SemBeta-SemFundo.png": "/secomp/static/media/Simbolo-SemBeta-SemFundo.000442f2c12e945a595f.png",
+    "static/media/Logotipo-Preto-SemFundo.png": "/secomp/static/media/Logotipo-Preto-SemFundo.aee92881868838722c8e.png",
     "static/media/Logotipo-Branco-SemFundo.png": "/secomp/static/media/Logotipo-Branco-SemFundo.96e79499049efa7d313a.png",
     "static/media/Logotipo-Vertical-Preto-SemFundo.png": "/secomp/static/media/Logotipo-Vertical-Preto-SemFundo.d61da4145ef9024288eb.png",
     "index.html": "/secomp/index.html",
     "static/media/onda.svg": "/secomp/static/media/onda.8b5d910206532ce972694f2bd38572a1.svg",
-    "main.3f375797.css.map": "/secomp/static/css/main.3f375797.css.map",
-    "main.0ed41585.js.map": "/secomp/static/js/main.0ed41585.js.map",
+    "main.72ff0f1c.css.map": "/secomp/static/css/main.72ff0f1c.css.map",
+    "main.501d057d.js.map": "/secomp/static/js/main.501d057d.js.map",
     "937.608b781f.chunk.js.map": "/secomp/static/js/937.608b781f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f375797.css",
-    "static/js/main.0ed41585.js"
+    "static/css/main.72ff0f1c.css",
+    "static/js/main.501d057d.js"
   ]
 }

@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Nav, Navbar, Container } from 'react-bootstrap';
 import logotipo from 'assets/logos/Logotipo-Branco-SemFundo.png';
-/* import Scrollspy from 'react-scrollspy';*/
+import Scrollspy from 'react-scrollspy';
 import './styles.css';
 
 function NavigationBar() {
@@ -28,8 +28,8 @@ function NavigationBar() {
 				</Navbar.Brand>
 				<Navbar.Toggle aria-controls="basic-navbar-nav" />
 				<Navbar.Collapse id="basic-navbar-nav">
-					{/* <Scrollspy className="me-auto navbar" items={['sobre', 'cronograma', 'apoio', 'equipe']} 
-								componentTag={'div'} currentClassName="is-current">*/}
+					<Scrollspy className="me-auto navbar" items={['sobre', 'cronograma', 'apoio', 'equipe']} 
+								componentTag={'div'} currentClassName="is-current">
 						<Nav.Link href="#sobre">
 							<p className='link'>Sobre</p>
 						</Nav.Link>
@@ -42,7 +42,7 @@ function NavigationBar() {
 						<Nav.Link href="#equipe">
 							<p className='link'>Equipe</p>
 						</Nav.Link>
-					{/*</Scrollspy> */}
+					</Scrollspy>
 					<Nav.Link href="https://google.com" target="_blank" rel="noreferrer">
 						<button>Inscrever-se</button>
 					</Nav.Link>

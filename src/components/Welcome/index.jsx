@@ -1,8 +1,8 @@
-import { Navbar } from "@layouts";
-import Particles from "@utils/Particles";
+import { Navbar } from "layouts";
+/* import Particles from "utils/Particles"; */
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowCircleDown } from "@fortawesome/free-solid-svg-icons";
-import svgOnda from '@assets/svgs/onda.svg';
+import svgOnda from 'assets/svgs/onda.svg';
 import './styles.css';
 
 function Welcome() {   
@@ -13,7 +13,7 @@ function Welcome() {
 
     return (
         <header className='welcome-container'>
-            <Particles />   {/* efeito de particulas, somente cosmetico */}
+            {/* <Particles />   {/* efeito de particulas, somente cosmetico */}
             <Navbar />
             <section className='welcome'>
                 <div className="container">

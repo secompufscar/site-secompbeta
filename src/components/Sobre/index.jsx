@@ -1,4 +1,4 @@
-import banner from '@assets/imgs/banner-secomp.jpg';
+import banner from 'assets/imgs/banner-secomp.jpg';
 import './styles.css'
 
 function Sobre() {

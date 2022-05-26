@@ -1,6 +1,6 @@
 import React from "react";
-import Home from "@pages/Home";
-import { Footer } from "@layouts";
+import Home from "pages/Home";
+import { Footer } from "layouts";
 
 function App() {
   return (

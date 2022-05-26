@@ -1,11 +1,11 @@
-import pedro from '@assets/membros/Conteudo - Pedro Freire Baleeiro.png';
-import rafael from '@assets/membros/DM - Rafael Tury Minatel.jpg'
-import pietro from '@assets/membros/JF - Pietro Minghini Moralles.png'
-import wesley from '@assets/membros/JF - Wesley Azevedo Souza.png'
-import bruno from '@assets/membros/Patrocínio - Bruno Zenatti de Caires Marcelo.png'
-import gianlucca from '@assets/membros/Sociocult - Gianlucca Pugliesi.jpeg'
-import joao from '@assets/membros/TI - João Pedro Pereira.png'
-import victor from '@assets/membros/TI - Victor Luis A Antunes.jpeg'
+import pedro from 'assets/membros/Conteudo - Pedro Freire Baleeiro.png';
+import rafael from 'assets/membros/DM - Rafael Tury Minatel.jpg'
+import pietro from 'assets/membros/JF - Pietro Minghini Moralles.png'
+import wesley from 'assets/membros/JF - Wesley Azevedo Souza.png'
+import bruno from 'assets/membros/Patrocínio - Bruno Zenatti de Caires Marcelo.png'
+import gianlucca from 'assets/membros/Sociocult - Gianlucca Pugliesi.jpeg'
+import joao from 'assets/membros/TI - João Pedro Pereira.png'
+import victor from 'assets/membros/TI - Victor Luis A Antunes.jpeg'
 
 /* Nossa equipe!
     TO DO: talvez criar um array de redes socias

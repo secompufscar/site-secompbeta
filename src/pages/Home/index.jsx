@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Welcome, Sobre, Cronograma, Apoio, Equipe } from "@components";
+import { Welcome, Sobre, Cronograma, Apoio, Equipe } from "components";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowCircleUp } from "@fortawesome/free-solid-svg-icons";
 import './styles.css';

@@ -1,4 +1,4 @@
-import logotipo from '@assets/logos/Logotipo-Vertical-Preto-SemFundo.png';
+import logotipo from 'assets/logos/Logotipo-Vertical-Preto-SemFundo.png';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
     faYoutube,
@@ -8,7 +8,7 @@ import {
     faLinkedin,
     faGithub
 } from "@fortawesome/free-brands-svg-icons";
-import svgOnda from '@assets/svgs/onda.svg';
+import svgOnda from 'assets/svgs/onda.svg';
 import './styles.css';
 
 function Footer() {

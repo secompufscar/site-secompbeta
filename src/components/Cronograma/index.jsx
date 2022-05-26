@@ -1,5 +1,5 @@
-import { listaCronograma } from '@utils/listaCronograma';
-import img from '@assets/logos/Simbolo-SemBeta-SemFundo.png';
+import { listaCronograma } from 'utils/listaCronograma';
+import img from 'assets/logos/Simbolo-SemBeta-SemFundo.png';
 import './styles.css';
 
 function Cronograma() {

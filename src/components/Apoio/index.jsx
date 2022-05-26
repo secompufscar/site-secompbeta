@@ -1,4 +1,4 @@
-import secomp from '@assets/logos/Logotipo-Preto-SemFundo.png';
+import secomp from 'assets/logos/Logotipo-Preto-SemFundo.png';
 import './styles.css'
 
 function Apoio() {

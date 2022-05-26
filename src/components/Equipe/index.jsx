@@ -1,5 +1,5 @@
 import RedesSociais from './redes-sociais';
-import { listaEquipe } from '@utils/listaEquipe';
+import { listaEquipe } from 'utils/listaEquipe';
 import Accordion from 'react-bootstrap/Accordion'
 import './styles.css';
 

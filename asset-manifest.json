@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/site-secompbeta/static/css/main.e33a18de.css",
-    "main.js": "/site-secompbeta/static/js/main.eabd323f.js",
+    "main.js": "/site-secompbeta/static/js/main.012c5567.js",
     "static/js/937.608b781f.chunk.js": "/site-secompbeta/static/js/937.608b781f.chunk.js",
     "static/media/Conteudo - Pedro Freire Baleeiro.png": "/site-secompbeta/static/media/Conteudo - Pedro Freire Baleeiro.076927db16f189813628.png",
     "static/media/JF - Pietro Minghini Moralles.png": "/site-secompbeta/static/media/JF - Pietro Minghini Moralles.e0b13fb869a19b6730d0.png",
@@ -20,11 +20,11 @@
     "index.html": "/site-secompbeta/index.html",
     "static/media/onda.svg": "/site-secompbeta/static/media/onda.8b5d910206532ce972694f2bd38572a1.svg",
     "main.e33a18de.css.map": "/site-secompbeta/static/css/main.e33a18de.css.map",
-    "main.eabd323f.js.map": "/site-secompbeta/static/js/main.eabd323f.js.map",
+    "main.012c5567.js.map": "/site-secompbeta/static/js/main.012c5567.js.map",
     "937.608b781f.chunk.js.map": "/site-secompbeta/static/js/937.608b781f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e33a18de.css",
-    "static/js/main.eabd323f.js"
+    "static/js/main.012c5567.js"
   ]
 }

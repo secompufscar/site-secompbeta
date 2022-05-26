@@ -1,0 +1,38 @@
+#home > .container {
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+
+#back-to-top {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 50px;
+    border-radius: 100px;
+    border: none;
+    cursor: pointer;
+    color: var(--color-black);
+}
+
+@keyframes subir {
+    0%{
+        opacity: 0;
+        transform: translateY(200px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+
+@keyframes descer {
+    0%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+    100%{
+        opacity: 0;
+        transform: translateY(200px);
+    }
+}

@@ -1,0 +1,27 @@
+a svg {
+    margin: 10px;
+}
+
+footer {
+    height: auto;
+    background-image: linear-gradient(30deg, var(--color-blue), var(--color-green));
+    text-align: center;
+}
+
+footer .social {
+    margin: 20px;
+    color: var(--color-black);
+}
+
+.footer-logo {
+    width: 200px;
+    margin: 20px;
+}
+
+.endereco {
+    padding: 20px;
+}
+
+.endereco a {
+    color: var(--color-black);
+}

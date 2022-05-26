@@ -1,0 +1,27 @@
+#sobre > div {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-size: 30px;
+    align-items: center;
+}
+
+.img-sobre {
+    text-align: end;
+}
+
+.img-sobre img {
+    max-width: 500px;
+    min-width: 200px;
+    width: -webkit-fill-available;
+}
+
+@media (max-width: 991px) {
+    #sobre > div {
+        display: block;
+        text-align: center;
+    }
+
+    .img-sobre {
+        text-align: center;
+    }
+}

@@ -1,0 +1,54 @@
+html {
+    scroll-padding-top: 85px;
+    scroll-behavior: smooth;
+}
+
+.link {
+    margin: 0 10px 0 10px;
+    color: #f2f2f2;
+}
+
+.link:hover {
+    font-weight: bolder;
+}
+
+/* efeito no link para quando estiver visualizando determinada section */
+.is-current {
+    text-decoration: underline !important;
+    text-decoration-color: var(--color-green) !important;
+    font-weight: bolder;
+}
+
+/* sobrescrevendo classes bootstrap */
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+.bg-dark {
+    transition: 500ms;
+    height: 100px;
+    background-color: transparent !important;
+}
+/* */
+
+/* efeito de mudar de cor e tamanho ao scrollar a pag */
+.colorChange {
+    background-color: var(--color-black) !important;
+    height: 75px;
+}
+
+/* tratando comportamento de menu de hamburguer em dispositivos moveis */
+@media (max-width: 991px) {
+    .show, .collapsing {
+        background-color: var(--color-black) !important;
+        border-radius: 16px;
+        padding: 10px;
+    }
+    .navbar {
+        display: block;
+        text-align: center;
+    }
+    .bg-dark {
+        height: auto;
+    }
+}

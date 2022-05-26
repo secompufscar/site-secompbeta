@@ -1,13 +1,110 @@
+/* aqui se encontra as cores padroes para a pag e as fontes usadas */
+
+@font-face {
+	font-family: 'Poppins';
+	src:
+		local('Poppins-Regular'),
+		url('./assets/fonts/Poppins-Regular.ttf');
+}
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	margin: 0;
+	font-family: 'Poppins', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background-color: var(--color-white);
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+		monospace;
+}
+
+#root {
+	height: 100%;
+}
+
+/* definindo cores globais */
+:root {
+	--color-green: #75FF84;
+	--color-blue: #6150FF;
+	--color-black: #232328;
+	--color-white: #F5F5F5;
+}
+
+/* aqui se encontram classes padrao q serao usadas por todas as pags */
+
+h1 {
+	font-size: 12px;
+}
+
+/* ESTILO PARA TODOS OS BOTOES DA PAGINA */
+button {
+	background-color: var(--color-green);
+	color: var(--color-black);
+	border: none;
+	border-radius: 36px;
+	padding: 14px;
+	margin-inline: 4px;
+	font-weight: bold;
+	transition: background-color 200ms ease-in-out, color 200ms ease-in-out;
+}
+
+button:hover {
+	background-color: var(--color-blue);
+	color: var(--color-white);
+}
+
+button:active {
+	opacity: 70%;
+}
+/*****/
+
+.row {
+	margin-top: 50px;
+}
+
+/* ESTILO PARA TODOS OS CARDS DA PAGINA */
+.card {
+	background-color: transparent;
+	border: 20px;
+	border-radius: 16px;
+	background-color: rgb(255, 255, 255);
+	padding: 20px;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.281);
+	margin: 10px;
+}
+/*****/
+
+/* estilos para os botoes de redes sociais */
+.social > svg {
+	transition: all 100ms ease-in-out;
+}
+
+.social:hover > svg {
+	transform: scale(1.2);
+}
+
+.instagram, .instagram:hover {
+	color: #dc2684;
+}
+
+.facebook, .facebook:hover {
+	color: #196ee6;
+}
+
+.twitter, .twitter:hover {
+	color: #209fef;
+}
+
+.linkedin, .linkedin:hover {
+	color: #0e62bf;
+}
+
+.github, .github:hover {
+	color: #161b22;
+}
+
+.youtube, .youtube:hover {
+	color: #fe0004;
 }

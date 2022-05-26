@@ -1,0 +1,98 @@
+.welcome-container {
+    height: calc(100vh);
+    /* overflow-x: hidden;
+    overflow-y: hidden;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+    /* background-color: #232328; */
+    /* background-image: url(../../assets/parallax.jpg); */
+    background: linear-gradient(30deg, #001540, #005636);
+    position: relative;
+}
+
+.welcome {
+    height: inherit;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.welcome div {
+    color: var(--color-black);
+    z-index: 100;
+}
+
+.welcome span {
+    color: var(--color-white);
+    animation: 2s ease-in-out fade; 
+}
+
+.welcome button {
+    padding: 20px;
+    margin-block: 50px;
+    font-size: 3vh;
+    animation: 4s ease-in-out move;
+}
+
+.msg-inicial, .data {
+    font-size: 4vh;
+}
+
+.data span {
+    font-weight: bolder;
+    text-decoration: underline;
+    text-decoration-color: var(--color-green);
+}
+
+.botao-descer {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    bottom: 10vh;
+    text-align: center;
+    animation: 5s ease-in-out move-hide;
+}
+
+.botao-descer a {
+    color: var(--color-white);
+}
+
+/* animações */
+
+@keyframes fade {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes move {
+    0% {
+        transform: translateY(20px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@keyframes move-hide {
+    0% {
+        transform: translateY(150px);
+    }
+    90% {
+        transform: translateY(150px);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}

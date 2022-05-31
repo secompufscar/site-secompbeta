@@ -24,22 +24,22 @@ function Footer() {
                 <img className='footer-logo' src={logotipo} alt="logo secomp" />
                 <p>Nos acompanhe em nossas redes sociais!</p>
                 <div className='social'>
-                    <a href="https://www.google.com/search?q=secomp" target="_blank" rel="noreferrer" className="youtube social">
+                    <a href="https://www.youtube.com/channel/UChj1pycWmHOJDeJkDf6RraA" target = "_blank" rel="noreferrer" className="youtube social">
                         <FontAwesomeIcon icon={faYoutube} size="2x" />
                     </a>
-                    <a href="https://www.google.com/search?q=secomp" target="_blank" rel="noreferrer" className="linkedin social">
+                    <a href = "https://www.linkedin.com/company/secomp-ufscar/" target = "_blank" rel="noreferrer" className="linkedin social">
                         <FontAwesomeIcon icon={faLinkedin} size="2x" />
                     </a>
-                    <a href="https://www.google.com/search?q=secomp" target="_blank" rel="noreferrer" className="instagram social">
+                    <a href = "https://www.instagram.com/secompufscar" target = "_blank" rel="noreferrer" className="instagram social">
                         <FontAwesomeIcon icon={faInstagram} size="2x" />
                     </a>
-                    <a href="https://www.google.com/search?q=secomp" target="_blank" rel="noreferrer" className="facebook social">
+                    <a href = "https://www.facebook.com/secompufscar" target = "_blank" rel="noreferrer" className="facebook social">
                         <FontAwesomeIcon icon={faFacebook} size="2x" />
                     </a>
-                    <a href="https://www.google.com/search?q=secomp" target="_blank" rel="noreferrer" className="twitter social">
+                    <a href = "https://twitter.com/secompufscar" target = "_blank" rel="noreferrer" className="twitter social">
                         <FontAwesomeIcon icon={faTwitter} size="2x" />
                     </a>
-                    <a href="https://www.google.com/search?q=secomp" target="_blank" rel="noreferrer" className="github social">
+                    <a href = "https://github.com/secompufscar" target="_blank" rel="noreferrer" className="github social">
                         <FontAwesomeIcon icon={faGithub} size="2x" />
                     </a>
                 </div>

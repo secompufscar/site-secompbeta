@@ -19,7 +19,7 @@ function Welcome() {
                 <div className="container">
                     <h2 className='msg-inicial'><span>A SECOMP voltou de maneira digital!</span></h2>
                     <h4 className='data'><span>ENTRE 20&nbsp;E&nbsp;28 DE&nbsp;JUNHO</span></h4>
-                    <a href="ggwg" target="_blank" rel="noreferrer"><button>Quero participar!</button></a> 
+                    <a href="#cronograma" /* target="_blank" rel="noreferrer" */><button>Quero participar!</button></a> 
                     <div className="botao-descer"><a href="#sobre"><FontAwesomeIcon icon={faArrowCircleDown} size="3x" /></a></div>
                 </div>
             </section>

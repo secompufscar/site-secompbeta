@@ -22,7 +22,6 @@
 }
 
 .welcome div {
-    color: var(--color-black);
     z-index: 100;
 }
 
@@ -44,8 +43,8 @@
 
 .data span {
     font-weight: bolder;
-    text-decoration: underline;
-    text-decoration-color: var(--color-green);
+    background-color: var(--color-blue);
+    padding-inline: 10px;
 }
 
 .botao-descer {

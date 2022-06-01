@@ -9,14 +9,14 @@ html {
 }
 
 .link:hover {
-    font-weight: bolder;
+    -webkit-text-stroke-width: .5px;
 }
 
 /* efeito no link para quando estiver visualizando determinada section */
 .is-current {
     text-decoration: underline !important;
     text-decoration-color: var(--color-green) !important;
-    font-weight: bolder;
+    -webkit-text-stroke-width: .5px;
 }
 
 /* sobrescrevendo classes bootstrap */

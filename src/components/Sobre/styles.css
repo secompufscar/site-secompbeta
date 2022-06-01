@@ -1,27 +1,18 @@
 #sobre > div {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    font-size: 30px;
+    font-size: 20px;
+    font-weight: 400;
     align-items: center;
 }
 
-.img-sobre {
-    text-align: end;
-}
-
-.img-sobre img {
-    max-width: 500px;
-    min-width: 200px;
-    width: -webkit-fill-available;
+#sobre > div > div {
+    margin: 20px;
 }
 
 @media (max-width: 991px) {
     #sobre > div {
         display: block;
-        text-align: center;
-    }
-
-    .img-sobre {
         text-align: center;
     }
 }

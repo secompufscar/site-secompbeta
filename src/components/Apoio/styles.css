@@ -1,3 +1,7 @@
 #apoio div {
     text-align: center;
 }
+
+#apoio div a {
+    margin: 20px;
+}

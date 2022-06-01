@@ -1,15 +1,15 @@
-import { listaCronograma } from 'utils/listaCronograma';
-import img from 'assets/logos/Simbolo-SemBeta-SemFundo.png';
+/* import { listaCronograma } from 'utils/listaCronograma';
+import img from 'assets/logos/Simbolo-SemBeta-SemFundo.png'; */
 import './styles.css';
 
 function Cronograma() {
 
-    const lista = listaCronograma();
+    //const lista = listaCronograma();
 
     return (
         <section id="cronograma" className="container">
-            <h3>Cronograma</h3><hr size="10" width="100%" />
-            <div className="row">
+            <h3>Cronograma em breve...</h3><hr size="10" width="100%" />
+            {/* <div className="row">
                 {lista.map(palestra =>
                     <div className="col-sm-6 col-lg-4 col-xl-3 mb-3" key={palestra.nome}>
                         <div className='card'>
@@ -24,7 +24,7 @@ function Cronograma() {
                         </div>
                     </div>
                 )}
-            </div>
+            </div> */}
         </section>
     );
 }

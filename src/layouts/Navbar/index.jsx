@@ -43,7 +43,7 @@ function NavigationBar() {
 							<p className='link'>Equipe</p>
 						</Nav.Link>
 					</Scrollspy>
-					<Nav.Link href="https://google.com" target="_blank" rel="noreferrer">
+					<Nav.Link href="#cronograma" /* target="_blank" rel="noreferrer" */>
 						<button>Inscrever-se</button>
 					</Nav.Link>
 				</Navbar.Collapse>

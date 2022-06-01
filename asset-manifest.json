@@ -1,30 +1,32 @@
 {
   "files": {
-    "main.css": "/site-secompbeta/static/css/main.e33a18de.css",
-    "main.js": "/site-secompbeta/static/js/main.012c5567.js",
+    "main.css": "/site-secompbeta/static/css/main.485b9e2f.css",
+    "main.js": "/site-secompbeta/static/js/main.2bc75bb4.js",
     "static/js/937.608b781f.chunk.js": "/site-secompbeta/static/js/937.608b781f.chunk.js",
     "static/media/Conteudo - Pedro Freire Baleeiro.png": "/site-secompbeta/static/media/Conteudo - Pedro Freire Baleeiro.076927db16f189813628.png",
     "static/media/JF - Pietro Minghini Moralles.png": "/site-secompbeta/static/media/JF - Pietro Minghini Moralles.e0b13fb869a19b6730d0.png",
     "static/media/JF - Wesley Azevedo Souza.png": "/site-secompbeta/static/media/JF - Wesley Azevedo Souza.eb31ee197ab4e3202a09.png",
     "static/media/TI - João Pedro Pereira.png": "/site-secompbeta/static/media/TI - João Pedro Pereira.5484d167bf7db7e51bed.png",
+    "static/media/foto2.jpg": "/site-secompbeta/static/media/foto2.8be3010a83afc6cebccc.jpg",
     "static/media/Patrocínio - Bruno Zenatti de Caires Marcelo.png": "/site-secompbeta/static/media/Patrocínio - Bruno Zenatti de Caires Marcelo.1edc77b98aa00b4276af.png",
-    "static/media/banner-secomp.jpg": "/site-secompbeta/static/media/banner-secomp.c1cf070f5a09d256d01f.jpg",
+    "static/media/foto1.jpg": "/site-secompbeta/static/media/foto1.c1cf070f5a09d256d01f.jpg",
+    "static/media/foto3.jpg": "/site-secompbeta/static/media/foto3.62647ed1c5b9bc874db5.jpg",
     "static/media/DM - Rafael Tury Minatel.jpg": "/site-secompbeta/static/media/DM - Rafael Tury Minatel.f46c121f579a315eb49d.jpg",
     "static/media/Sociocult - Gianlucca Pugliesi.jpeg": "/site-secompbeta/static/media/Sociocult - Gianlucca Pugliesi.04daf0e13d1916f55078.jpeg",
     "static/media/Poppins-Regular.ttf": "/site-secompbeta/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Logomarca_UFSCAR.png": "/site-secompbeta/static/media/Logomarca_UFSCAR.2fc24d5462015c3bf68b.png",
     "static/media/TI - Victor Luis A Antunes.jpeg": "/site-secompbeta/static/media/TI - Victor Luis A Antunes.25bba02fecb2e18bab3c.jpeg",
-    "static/media/Simbolo-SemBeta-SemFundo.png": "/site-secompbeta/static/media/Simbolo-SemBeta-SemFundo.000442f2c12e945a595f.png",
     "static/media/Logotipo-Preto-SemFundo.png": "/site-secompbeta/static/media/Logotipo-Preto-SemFundo.aee92881868838722c8e.png",
     "static/media/Logotipo-Branco-SemFundo.png": "/site-secompbeta/static/media/Logotipo-Branco-SemFundo.96e79499049efa7d313a.png",
     "static/media/Logotipo-Vertical-Preto-SemFundo.png": "/site-secompbeta/static/media/Logotipo-Vertical-Preto-SemFundo.d61da4145ef9024288eb.png",
     "index.html": "/site-secompbeta/index.html",
     "static/media/onda.svg": "/site-secompbeta/static/media/onda.8b5d910206532ce972694f2bd38572a1.svg",
-    "main.e33a18de.css.map": "/site-secompbeta/static/css/main.e33a18de.css.map",
-    "main.012c5567.js.map": "/site-secompbeta/static/js/main.012c5567.js.map",
+    "main.485b9e2f.css.map": "/site-secompbeta/static/css/main.485b9e2f.css.map",
+    "main.2bc75bb4.js.map": "/site-secompbeta/static/js/main.2bc75bb4.js.map",
     "937.608b781f.chunk.js.map": "/site-secompbeta/static/js/937.608b781f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e33a18de.css",
-    "static/js/main.012c5567.js"
+    "static/css/main.485b9e2f.css",
+    "static/js/main.2bc75bb4.js"
   ]
 }

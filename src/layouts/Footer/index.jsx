@@ -45,7 +45,7 @@ function Footer() {
                 </div>
                 <p>Dúvidas ou sugestões? <a href="mailto:secompufscar@example.com?subject=SECOMP BETA Dúvidas/Sugestões">Contate-nos</a></p>
                 <div className='endereco'>
-                    <a href="https://goo.gl/maps/hmdWJnVEansbszdN9" target="_blank" rel="noreferrer">
+                    <a href="https://site.dc.ufscar.br/" target="_blank" rel="noreferrer">
                         Departamento de Computação</a> (UFSCar) - Rod. Washington Luiz, São Carlos - SP, 13565-905
                 </div>
             </div>

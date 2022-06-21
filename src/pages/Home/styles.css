@@ -13,6 +13,7 @@
     border: none;
     cursor: pointer;
     color: var(--color-black);
+    z-index: 9999;
 }
 
 @keyframes subir {

@@ -43,7 +43,7 @@ function Footer() {
                         <FontAwesomeIcon icon={faGithub} size="2x" />
                     </a>
                 </div>
-                <p>Dúvidas ou sugestões? <a href="mailto:secompufscar@example.com?subject=SECOMP BETA Dúvidas/Sugestões">Contate-nos</a></p>
+                <p>Dúvidas ou sugestões? <a href="mailto:suporte@secompufscar.com.br?subject=SECOMP BETA Dúvidas/Sugestões">Contate-nos</a></p>
                 <div className='endereco'>
                     <a href="https://site.dc.ufscar.br/" target="_blank" rel="noreferrer">
                         Departamento de Computação</a> (UFSCar) - Rod. Washington Luiz, São Carlos - SP, 13565-905

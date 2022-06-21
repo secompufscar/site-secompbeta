@@ -6,92 +6,78 @@ import bruno from 'assets/membros/Patrocínio - Bruno Zenatti de Caires Marcelo.
 import gianlucca from 'assets/membros/Sociocult - Gianlucca Pugliesi.jpeg'
 import joao from 'assets/membros/TI - João Pedro Pereira.jpg'
 import victor from 'assets/membros/TI - Victor Luis A Antunes.jpeg'
+import generico from 'assets/logos/Simbolo-SemBeta-SemFundo.png'
 
-/* Nossa equipe!
-    TO DO: talvez criar um array de redes socias
-*/
-
+// Nossa equipe!
 const equipe = [
     {
         nome: 'Paulo',
         diretoria: 'Coordenação',
-        linkedin: 'https://linkedin.com',
-        instagram: 'http://github.com',
+        img: generico
         /*img: paulo*/
     },
     {
         nome: 'Gabriel',
         diretoria: 'Coordenação',
-        twitter: 'https://linkedin.com',
-        github: 'http://github.com',
+        img: generico
         /*img: gabriel*/
     },
     {
         nome: 'Murilo',
         diretoria: 'Coordenação',
-        linkedin: 'https://linkedin.com',
-        facebook: 'http://github.com',
+        img: generico
         /*img: murilo*/
     },
     {
         nome: 'Pedro Freire Baleeiro',
         diretoria: 'Conteúdo',
-        linkedin: 'https://linkedin.com',
-        github: 'http://github.com',
+        linkedin: 'https://www.linkedin.com/in/pedro-freire-baleeiro-b097651a1/',
+        instagram: 'https://www.instagram.com/pedrofbaleeiro/',
+        github: 'https://github.com/SnakeZ0',
         img: pedro
     },
     {
         nome: 'Rafael Tury Minatel',
         diretoria: 'Design/Marketing',
-        linkedin: 'https://linkedin.com',
-        github: 'http://github.com',
-        twitter: 'rwgdg',
         img: rafael
     },
     {
         nome: 'Pietro Minghini Moralles',
         diretoria: 'Jurídico/Financeiro',
-        linkedin: 'https://linkedin.com',
-        github: 'http://github.com',
-        facebook: 'gergeg',
+        linkedin: 'https://www.linkedin.com/in/pietro-moralles/',
+        instagram: 'https://www.instagram.com/pietro_mm/',
+        github: 'https://github.com/Pietro-MM',
         img: pietro
     },
     {
         nome: 'Wesley Azevedo Souza',
         diretoria: 'Jurídico/Financeiro',
-        linkedin: 'https://linkedin.com',
-        github: 'http://github.com',
-        instagram: 'esf',
         img: wesley
     },
     {
-        nome: 'Bruno Zenatti de C. Marcelo',
+        nome: 'Bruno Zenatti de Caires Marcelo',
         diretoria: 'Patrocínio',
-        linkedin: 'https://linkedin.com',
-        github: 'http://github.com',
-        instagram: 'esf',
+        linkedin: 'https://www.linkedin.com/in/bruno-zenatti-de-caires-marcelo-0b5a9b211/',
+        facebook: 'https://www.facebook.com/bruno.zenatti.3/',
+        instagram: 'https://www.instagram.com/bruno.zenatti/',
         img: bruno
     },
     {
         nome: 'Gianlucca Pugliesi',
         diretoria: 'Sociocultural',
-        instagram: 'esf',
-        linkedin: 'https://linkedin.com',
-        github: 'http://github.com',
         img: gianlucca
     },
     {
         nome: 'João Pedro Pereira',
         diretoria: 'TI',
         linkedin: 'http://www.linkedin.com/in/joao-pedropereira',
-        github: 'https://github.com/CaBaNa232',
+        github: 'https://github.com/jppereira9',
         instagram: 'https://www.instagram.com/joaoo.pereira_/',
         img: joao
     },
     {
         nome: 'Victor Luís Aguilar Antunes',
         diretoria: 'TI',
-        instagram: 'esf',
         linkedin: 'https://www.linkedin.com/in/victor-lu%C3%ADs-aguilar-antunes-06588221a/',
         github: 'https://github.com/VLx2000',
         img: victor

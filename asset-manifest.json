@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/site-secompbeta/static/css/main.135abe75.css",
-    "main.js": "/site-secompbeta/static/js/main.b3110273.js",
+    "main.css": "/site-secompbeta/static/css/main.ef3d4524.css",
+    "main.js": "/site-secompbeta/static/js/main.ed0da49c.js",
     "static/js/937.608b781f.chunk.js": "/site-secompbeta/static/js/937.608b781f.chunk.js",
     "static/media/Conteudo - Pedro Freire Baleeiro.png": "/site-secompbeta/static/media/Conteudo - Pedro Freire Baleeiro.076927db16f189813628.png",
     "static/media/JF - Pietro Minghini Moralles.png": "/site-secompbeta/static/media/JF - Pietro Minghini Moralles.e0b13fb869a19b6730d0.png",
@@ -15,19 +15,22 @@
     "static/media/Poppins-Regular.ttf": "/site-secompbeta/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/Logomarca_UFSCAR.png": "/site-secompbeta/static/media/Logomarca_UFSCAR.2fc24d5462015c3bf68b.png",
     "static/media/TI - Victor Luis A Antunes.jpeg": "/site-secompbeta/static/media/TI - Victor Luis A Antunes.25bba02fecb2e18bab3c.jpeg",
+    "static/media/ia.jpeg": "/site-secompbeta/static/media/ia.994b4807e5eb4a5bdea9.jpeg",
     "static/media/TI - João Pedro Pereira.jpg": "/site-secompbeta/static/media/TI - João Pedro Pereira.b003d1433bfe0f73abc8.jpg",
+    "static/media/ux.jpg": "/site-secompbeta/static/media/ux.81f0a7556937f1170e93.jpg",
     "static/media/Simbolo-SemBeta-SemFundo.png": "/site-secompbeta/static/media/Simbolo-SemBeta-SemFundo.000442f2c12e945a595f.png",
     "static/media/Logotipo-Preto-SemFundo.png": "/site-secompbeta/static/media/Logotipo-Preto-SemFundo.aee92881868838722c8e.png",
     "static/media/Logotipo-Branco-SemFundo.png": "/site-secompbeta/static/media/Logotipo-Branco-SemFundo.96e79499049efa7d313a.png",
     "static/media/Logotipo-Vertical-Preto-SemFundo.png": "/site-secompbeta/static/media/Logotipo-Vertical-Preto-SemFundo.d61da4145ef9024288eb.png",
+    "static/media/django.webp": "/site-secompbeta/static/media/django.332d534215cfc3a2faa2.webp",
     "index.html": "/site-secompbeta/index.html",
     "static/media/onda.svg": "/site-secompbeta/static/media/onda.8b5d910206532ce972694f2bd38572a1.svg",
-    "main.135abe75.css.map": "/site-secompbeta/static/css/main.135abe75.css.map",
-    "main.b3110273.js.map": "/site-secompbeta/static/js/main.b3110273.js.map",
+    "main.ef3d4524.css.map": "/site-secompbeta/static/css/main.ef3d4524.css.map",
+    "main.ed0da49c.js.map": "/site-secompbeta/static/js/main.ed0da49c.js.map",
     "937.608b781f.chunk.js.map": "/site-secompbeta/static/js/937.608b781f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.135abe75.css",
-    "static/js/main.b3110273.js"
+    "static/css/main.ef3d4524.css",
+    "static/js/main.ed0da49c.js"
   ]
 }

@@ -1,4 +1,78 @@
-#cronograma .card:hover {
-    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.281);
+#cronograma .card {
+    width: 100%;
+    padding: 0;
+    position: relative;
+}
+
+.box {
+    text-decoration: none;
+    color: var(--color-black);
+}
+
+.evento {
+    min-height: 250px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.info-evento {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 20px;
+}
+
+.data-evento {
+    text-align: end;
+}
+
+.local-evento {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px 16px 0 0;
+    width: 100%;
+    color: var(--color-white);
+    font-weight: 600;
+}
+
+.local-evento div {
+    padding: 4px;
+}
+
+.palestrante-evento {
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--color-black);
+    padding-inline: 20px;
+    border-radius: 0 0 16px 16px;
+}
+
+.palestrante-evento  h6 {
+    margin: 0;
+    width: max-content;
+    color: var(--color-white);
+}
+
+.palestrante-evento:hover, .palestrante-evento:hover h6 {
     cursor: pointer;
+    color: var(--color-green);
+}
+
+.palestrante-evento img {
+    border-radius: 30px;
+    border: solid 2px rgba(0, 0, 0, 0.356);
+}
+
+.box a {
+    text-decoration: none;
+}
+
+.link-evento {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
 }

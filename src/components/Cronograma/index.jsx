@@ -1,30 +1,29 @@
-/* import { listaCronograma } from 'utils/listaCronograma';
-import img from 'assets/logos/Simbolo-SemBeta-SemFundo.png'; */
+import { listaCronograma } from 'utils/listaCronograma';
+import InfoEvento from 'components/Cronograma/info-evento';
 import './styles.css';
 
 function Cronograma() {
 
-    //const lista = listaCronograma();
+    function filtraTipo(array, value) {
+        return array.filter((data) => JSON.stringify(data).toLowerCase().indexOf(value.toLowerCase()) !== -1);
+    }
+    const lista = listaCronograma();
+    const seminarios = filtraTipo(lista, 'seminario');
+    const minicursos = filtraTipo(lista, 'minicurso');
 
     return (
         <section id="cronograma" className="container">
             <h3>Cronograma em breve...</h3><hr size="10" width="100%" />
-            {/* <div className="row">
-                {lista.map(palestra =>
-                    <div className="col-sm-6 col-lg-4 col-xl-3 mb-3" key={palestra.nome}>
-                        <div className='card'>
-                            <img src={img} alt="imagem palestra" />
-                            <div className="box">
-                                <div>{palestra.nome}</div>
-                                <div>{palestra.palestrante}</div>
-                                <div>{palestra.dia}</div>
-                                <div>{palestra.horario}</div>
-                                <div>{palestra.local}</div>
-                            </div>
-                        </div>
-                    </div>
+            <div className="row">
+                <h4>Seminários</h4>
+                {seminarios.map(seminario =>
+                    <InfoEvento evento={seminario} key={seminario.nome}/>
                 )}
-            </div> */}
+                <h4>Minicursos</h4>
+                {minicursos.map(minicurso =>
+                    <InfoEvento evento={minicurso} key={minicurso.nome}/>
+                )}
+            </div>
         </section>
     );
 }

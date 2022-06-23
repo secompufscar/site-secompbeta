@@ -1,7 +1,7 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faYoutube } from "@fortawesome/free-brands-svg-icons";
 import { faVideoCamera } from "@fortawesome/free-solid-svg-icons";
-import palestrante from 'assets/membros/TI - Victor Luis A Antunes.jpeg'
+import palestrante from 'assets/logos/Simbolo-SemBeta-SemFundo.png'
 
 function InfoEvento(props) {
 
@@ -11,19 +11,11 @@ function InfoEvento(props) {
         <div className="col-sm-12 col-lg-6 col-xl-4 mb-3 align-items-stretch d-flex">
             <div className='card'>
                 <div className="box">
-                    {evento.tipo === 'seminario' && <div className="local-evento" style={{ background: '#fe0004' }}>
-                        <div>{evento.local}</div>
-                        <FontAwesomeIcon icon={faYoutube} size="1x" /></div>
-                    }
-                    {evento.tipo === 'minicurso' && <div className="local-evento" style={{ background: '#01ae4f' }}>
-                        <div>{evento.local}</div>
-                        <FontAwesomeIcon icon={faVideoCamera} size="1x" /></div>
-                    }
-                    <div className="evento" style={{ backgroundImage: `url(${evento.img})` }}>
+                    <div className="img-evento" style={{ backgroundImage: `url(${evento.img})` }}>
                     </div>
                     <a href={evento.linkPalestrante} alt="">
                         <div className="palestrante-evento">
-                            <h6>Por: {evento.palestrante}</h6><img src={palestrante} alt="" width={'100%'} />
+                            <h6>Por: {evento.palestrante}</h6><img src={palestrante} alt="palestrante"/>
                         </div>
                     </a>
                     <div className="info-evento">
@@ -31,12 +23,22 @@ function InfoEvento(props) {
                             <h5>{evento.nome}</h5>
                         </div>
                         <div className="data-evento">
-                            <i>{evento.dia}</i>
-                            <div>{evento.horario}</div>
+                            <i>{evento.dia}</i> <br />
+                            <b>{evento.horario}</b>
                         </div>
                     </div>
                     <a href={evento.link} className="link-evento">
-                        <button>Participar</button>
+                        <button>
+                            <div className="local-evento" >
+                                <span>Participar pelo {evento.local}</span>
+                                {evento.tipo === 'seminario' && 
+                                    <FontAwesomeIcon icon={faYoutube} size="1x" />
+                                }
+                                {evento.tipo === 'minicurso' &&
+                                    <FontAwesomeIcon icon={faVideoCamera} size="1x" />
+                                }
+                            </div>                              
+                        </button>
                     </a>
                 </div>
             </div>

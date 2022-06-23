@@ -13,7 +13,7 @@ function Cronograma() {
 
     return (
         <section id="cronograma" className="container">
-            <h3>Cronograma em breve...</h3><hr size="10" width="100%" />
+            <h3>Cronograma</h3><hr size="10" width="100%" />
             <div className="row">
                 <h4>Seminários</h4>
                 {seminarios.map(seminario =>

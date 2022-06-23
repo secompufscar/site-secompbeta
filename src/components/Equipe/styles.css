@@ -25,6 +25,10 @@ h3 span {
     align-items: center;
 }
 
+.redes-sociais svg {
+    margin: 10px;
+}
+
 /* sobrescrevendo classes bootstrap */
 .accordion-collapse {
     background-color: rgb(245, 245, 245) !important;
